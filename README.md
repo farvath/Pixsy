@@ -7,7 +7,7 @@ This project explores video and image steganography, which is hiding secret mess
 
 ## **FLOW DIAGRAM**
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](stego flow chart.jpg)
 
 
 ## **IMAGE STEGANOGRAPHY :**
