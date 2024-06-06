@@ -39,8 +39,12 @@ Similar approach is followed in video steganography, here each frame is treated 
 
 * **Enhanced Security:** Combining encryption with steganography offers a layered security approach.
 * **Improved Covertness:** Steganography helps conceal the message's presence within the video.
+  
 ## **IMAGE COMPARISON**
 ![[App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)](https://github.com/farvath/Pixsy/blob/main/inp_img.jpg)
+
 Input Image 
+
 ![[App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)](https://github.com/farvath/Pixsy/blob/main/out_img.jpg)
+
 Stego Image
