@@ -48,3 +48,13 @@ Input Image
 ![[App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)](https://github.com/farvath/Pixsy/blob/main/out_img.jpg)
 
 Stego Image
+
+
+## **IMAGE COMPARISON**
+
+| Image | Description |
+|---|---|
+| ![[App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)](https://github.com/farvath/Pixsy/blob/main/inp_img.jpg) | Input Image |
+| ![[App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)](https://github.com/farvath/Pixsy/blob/main/out_img.jpg)
+| Stego Image |
+
